@@ -11,7 +11,8 @@ export default function Home() {
 
       <section className={utilStyles.headingMd}>
         <p className="text-gray-300 leading-relaxed">
-        
+        Hi! I’m Mary Antonette Galatierra, a BSIT student. In my free time, I love doing different things such as sleeping, watching movies, eating, and more. In five years, I see myself having a stable life, achieving my dreams, becoming more independent, and living a better and successful life.
+
         </p>
 
         <p>
